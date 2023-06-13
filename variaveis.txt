@@ -1,0 +1,31 @@
+/* Online C# Compiler and Editor */
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+      
+        //comentário de linha 
+        
+        
+        /*
+           comentario de multiplas linhas 
+           linha1
+           linha2
+        */
+        
+        int idade = 40;
+        string nome = "Bruno";
+        double valor = 100000.50;
+        char "a";
+        bool status = true;
+       
+       
+       
+       
+       
+       
+    }
+}   
